@@ -1,30 +1,42 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+## My Goals:
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+* Code everyday!
+* To learn new languages and tech stack for Data Engineering and Data Science: Python, Spark, Hadoop, Postgresql, Data Science libraries, NLP, dataframes, Machine Learning, Streaming.
+* To gain experience and build Data Engineering/Data Science projects.
+* To learn front end dev stack: JavaScript, NodejS, React, Gatsby.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+## Poject website: 
+* Data Engineering : https://github.com/imtimwong/twittersentiment
+* Personal portfolio : https://github.com/imtimwong/gastby_personal_site
 
-**Link to work:** [Calculator App](http://www.example.com)
+#### I may have already started the challenge before logging it here and on twitter. And, I'll never stop learning and building cool stuff :)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 3: Oct 12, 2019 
+<!-- ##### (delete me or comment me out) -->
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Started 100daysofcode progress logging. Drew a program design architechture for the twitter sentiment analysis project. Fixed some typo and formatting on the readme documentation.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** 
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link to work:** [Twitter sentiment analysis readme](https://github.com/imtimwong/twittersentiment/blob/master/README.md)
+
+### Day 2: oct 11, 2019
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**: Setup Gatsby for my personal portfolio and deployed it on Netlify.
+
+**Thoughts**: I really like using Netlify so far, it has free CDN and Let's encrypt better than the paid ones lol. Gatsby is blazing fast, i'm serious.
+
+**Link(s) to work**: [gastby_personal_site](https://github.com/imtimwong/gastby_personal_site)
 
 
-### Day 1: June 27, Monday
+### Day 1: oct 10, 2019
+<!-- ##### (delete me or comment me out) -->
+**Today's Progress**: Updated documentation and added data sampling for breakdown of tweets being cleaned and processed. Used workaround solution to view jupyter notebook files on github.
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** : Hope people would understand my work easier.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [twittersentiment](https://github.com/imtimwong/twittersentiment)
