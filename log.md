@@ -16,7 +16,7 @@
 ### Day 3: Oct 12, 2019 
 <!-- ##### (delete me or comment me out) -->
 
-**Today's Progress**: Started 100daysofcode progress logging. Drew a program design architechture for the twitter sentiment analysis project. Fixed some typo and formatting on the readme documentation.
+**Today's Progress**: Started 100daysofcode progress logging. Drew a program design architecture for the twitter sentiment analysis project. Fixed some typo and formatting on the readme documentation.
 
 **Thoughts:** 
 
