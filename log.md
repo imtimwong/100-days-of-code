@@ -13,6 +13,18 @@
 
 #### I may have already started the challenge before logging it here and on twitter. And, I'll never stop learning and building cool stuff :)
 
+
+
+### Day 3: oct 13, 2019
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**: Going through #gatsbyjs official tutorial guide. Learned about components today and linking. #react #CodeNewbie
+
+**Thoughts**: Couldn't get hot reloading to work, thanks to steve's reply on twitter. At the end, i found a solution... which is to turn on auto save omg lolzzzz.
+
+**Link(s) to work**: [gastby_personal_site](https://github.com/imtimwong/gastby_personal_site)
+
+
 ### Day 3: Oct 12, 2019 
 <!-- ##### (delete me or comment me out) -->
 
