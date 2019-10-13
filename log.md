@@ -15,7 +15,7 @@
 
 
 
-### Day 3: oct 13, 2019
+### Day 4: oct 13, 2019
 <!-- ##### (delete me or comment me out) -->
 
 **Today's Progress**: Going through #gatsbyjs official tutorial guide. Learned about components today and linking. #react #CodeNewbie
