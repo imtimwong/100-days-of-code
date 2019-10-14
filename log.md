@@ -15,6 +15,19 @@
 
 
 
+
+
+### Day 5: oct 14, 2019
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**: Going through @andrew_j_mead's #gatsbyjs tutorial https://youtube.com/watch?v=kzWIUX3CpuI… . It's awesome! Updated my resume, fingers crossed :)
+
+**Thoughts**: I'm starting to like react a lot and front end development.
+
+**Link(s) to work**: [gastby_personal_site](https://github.com/imtimwong/gastby_my_personal_site)
+
+
+
 ### Day 4: oct 13, 2019
 <!-- ##### (delete me or comment me out) -->
 
