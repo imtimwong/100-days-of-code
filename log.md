@@ -9,10 +9,18 @@
 
 ## Poject website: 
 * Data Engineering : https://github.com/imtimwong/twittersentiment
-* Personal portfolio : https://github.com/imtimwong/gastby_personal_site
+* Personal portfolio : https://github.com/imtimwong/gastby_my_personal_site
 
 #### I may have already started the challenge before logging it here and on twitter. And, I'll never stop learning and building cool stuff :)
 
+### Day 6: oct 15, 2019
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**: Starting to get into CSS. I've done a bit of it back in uni but forgotten all of it lol. Going through @andrew_j_mead's #gatsbyjs tutorial https://youtube.com/watch?v=kzWIUX3CpuI… .
+
+**Thoughts**: React and graphql can really do many many things.
+
+**Link(s) to work**: [gastby_my_personal_site](https://github.com/imtimwong/gastby_my_personal_site)
 
 
 
