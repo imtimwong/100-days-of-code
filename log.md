@@ -22,6 +22,7 @@
 Just found out i've completed the #hacktoberfest2019 challenge YASSSS!!! Getting my free swag t-shirt!
 
 **Thoughts**: We really need a solution for viewing jupyter notebook files on github... there are a lot of ppl facing problems with it.
+              A data sceintist that i follow on instagram shared her current feelings and her experience on her career change into data science. I can really relate to her as I'm in a similar situation right now. I hope companies are not expecting unicorns who have 7000 years of exp in x,y,x,... n technologies. It's unrealistic. Good luck for my job search.
 
 
 **Link(s) to work**: [gastby_my_personal_site](https://github.com/imtimwong/gastby_my_personal_site)
