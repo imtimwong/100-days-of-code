@@ -13,6 +13,21 @@
 
 #### I may have already started the challenge before logging it here and on twitter. And, I'll never stop learning and building cool stuff :)
 
+
+
+### Day 7: oct 16, 2019
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**: Chnaged my jupyter notebook files on github to pdf due to issues on nbviewer recently. I hope whoever is viewing it will have no problem checking out my pet projects. Going through @andrew_j_mead's #gatsbyjs tutorial https://youtube.com/watch?v=kzWIUX3CpuI… .
+Just found out i've completed the #hacktoberfest2019 challenge YASSSS!!! Getting my free swag t-shirt!
+
+**Thoughts**: We really need a solution for viewing jupyter notebook files on github... there are a lot of ppl facing problems with it.
+
+
+**Link(s) to work**: [gastby_my_personal_site](https://github.com/imtimwong/gastby_my_personal_site)
+                      [twittersentiment](https://github.com/imtimwong/twittersentiment)
+
+
 ### Day 6: oct 15, 2019
 <!-- ##### (delete me or comment me out) -->
 
