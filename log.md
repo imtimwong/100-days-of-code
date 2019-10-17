@@ -13,6 +13,16 @@
 
 #### I may have already started the challenge before logging it here and on twitter. And, I'll never stop learning and building cool stuff :)
 
+### Day 8: oct 17, 2019
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**: Added robots.txt plugin to my site coz i don't like wayback machine crawling my site lol. Found this cool css gradient generator for my site : https://mycolor.space 
+
+**Thoughts**: 
+
+
+**Link(s) to work**: [gastby_my_personal_site](https://github.com/imtimwong/gastby_my_personal_site)
+                      <!--[twittersentiment](https://github.com/imtimwong/twittersentiment) -->
 
 
 ### Day 7: oct 16, 2019
