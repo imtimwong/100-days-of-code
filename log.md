@@ -13,6 +13,17 @@
 
 #### I may have already started the challenge before logging it here and on twitter. And, I'll never stop learning and building cool stuff :)
 
+### Day 8: oct 18, 2019
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**: Added a gradient background with some outerspace feel into my header and finally figured out customizing the fonts with scss and css. 
+
+**Thoughts**: 
+
+
+**Link(s) to work**: [gastby_my_personal_site](https://github.com/imtimwong/gastby_my_personal_site)
+                      <!--[twittersentiment](https://github.com/imtimwong/twittersentiment) -->
+
 ### Day 8: oct 17, 2019
 <!-- ##### (delete me or comment me out) -->
 
