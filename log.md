@@ -13,7 +13,7 @@
 
 #### I may have already started the challenge before logging it here and on twitter. And, I'll never stop learning and building cool stuff :)
 
-### Day 8: oct 18, 2019
+### Day 9: oct 18, 2019
 <!-- ##### (delete me or comment me out) -->
 
 **Today's Progress**: Added a gradient background with some outerspace feel into my header and finally figured out customizing the fonts with scss and css. 
