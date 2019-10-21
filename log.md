@@ -13,6 +13,43 @@
 
 #### I may have already started the challenge before logging it here and on twitter. And, I'll never stop learning and building cool stuff :)
 
+
+### Day 11: oct 21, 2019
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**: Learning about flex in tutorials, trying to flex my divisions properly. 
+
+**Thoughts**: 
+
+
+**Link(s) to work**: [gastby_my_personal_site](https://github.com/imtimwong/gatsby_personal_site)
+                      <!--[twittersentiment](https://github.com/imtimwong/twittersentiment) -->
+
+
+### Day 11: oct 20, 2019
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**: Trying to flex my footer properly.
+
+**Thoughts**: 
+
+
+**Link(s) to work**: [gastby_my_personal_site](https://github.com/imtimwong/gatsby_personal_site)
+                      <!--[twittersentiment](https://github.com/imtimwong/twittersentiment) -->
+
+
+### Day 10: oct 19, 2019
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**: fixing my footer menu to properly align to the center. Learned the spcificity of styling inline or element level.
+
+**Thoughts**: 
+
+
+**Link(s) to work**: [gastby_my_personal_site](https://github.com/imtimwong/gatsby_personal_site)
+                      <!--[twittersentiment](https://github.com/imtimwong/twittersentiment) -->
+                      
+                      
 ### Day 9: oct 18, 2019
 <!-- ##### (delete me or comment me out) -->
 
