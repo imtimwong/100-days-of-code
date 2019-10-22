@@ -9,12 +9,12 @@
 
 ## Poject website: 
 * Data Engineering : https://github.com/imtimwong/twittersentiment
-* Personal portfolio : https://github.com/imtimwong/gastby_my_personal_site
+* Personal portfolio : https://github.com/imtimwong/gatsby_personal_site
 
 #### I may have already started the challenge before logging it here and on twitter. And, I'll never stop learning and building cool stuff :)
 
 
-### Day 11: oct 21, 2019
+### Day 12: oct 21, 2019
 <!-- ##### (delete me or comment me out) -->
 
 **Today's Progress**: Learning about flex in tutorials, trying to flex my divisions properly. 
