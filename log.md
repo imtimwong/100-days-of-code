@@ -14,6 +14,39 @@
 #### I may have already started the challenge before logging it here and on twitter. And, I'll never stop learning and building cool stuff :)
 
 
+### Day 19: oct 28, 2019
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+
+**Link(s) to work**: [gastby_my_personal_site](https://github.com/imtimwong/gatsby_personal_site)
+                      <!--[twittersentiment](https://github.com/imtimwong/twittersentiment) -->
+
+### Day 14-18: oct 27, 2019
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+
+**Link(s) to work**: 
+
+
+### Day 13: oct 22, 2019
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**: Learning about basic GraphQL extracting information of the site. It could make the site dynamic.
+
+**Thoughts**: i think its a pretty powerful tool.
+
+
+**Link(s) to work**: [gastby_my_personal_site](https://github.com/imtimwong/gatsby_personal_site)
+                      <!--[twittersentiment](https://github.com/imtimwong/twittersentiment) -->
+
 ### Day 12: oct 21, 2019
 <!-- ##### (delete me or comment me out) -->
 
