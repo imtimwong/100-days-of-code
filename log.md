@@ -14,10 +14,21 @@
 #### I may have already started the challenge before logging it here and on twitter. And, I'll never stop learning and building cool stuff :)
 
 
+### Day 20: oct 29, 2019
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**: Fixing the margin and padding of the body and footer, tricky stuff.
+
+**Thoughts**: 
+
+
+**Link(s) to work**: [gastby_my_personal_site](https://github.com/imtimwong/gatsby_personal_site)
+                      <!--[twittersentiment](https://github.com/imtimwong/twittersentiment) -->
+
 ### Day 19: oct 28, 2019
 <!-- ##### (delete me or comment me out) -->
 
-**Today's Progress**: 
+**Today's Progress**: Working on the now page, go to nownownow.com and check it out.
 
 **Thoughts**: 
 
