@@ -14,6 +14,17 @@
 #### I may have already started the challenge before logging it here and on twitter. And, I'll never stop learning and building cool stuff :)
 
 
+### Day 21-25: nov 3, 2019
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**: Reasearching on ML projects to work on. Going through Free code camp's css tutorials.
+
+**Thoughts**: 
+
+
+**Link(s) to work**: [gastby_my_personal_site](https://github.com/imtimwong/gatsby_personal_site)
+                      <!--[twittersentiment](https://github.com/imtimwong/twittersentiment) -->
+
 ### Day 20: oct 29, 2019
 <!-- ##### (delete me or comment me out) -->
 
@@ -39,7 +50,7 @@
 ### Day 14-18: oct 27, 2019
 <!-- ##### (delete me or comment me out) -->
 
-**Today's Progress**: 
+**Today's Progress**: Worked more on the css positioning of the site.
 
 **Thoughts**: 
 
