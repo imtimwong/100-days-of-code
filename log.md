@@ -13,6 +13,15 @@
 
 #### I may have already started the challenge before logging it here and on twitter. And, I'll never stop learning and building cool stuff :)
 
+### Day 26-29: nov 7, 2019
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**: Reasearching on ML projects to work on. Continuing Free code camp's html and css turorials.
+
+**Thoughts**: 
+
+
+**Link(s) to work**:
 
 ### Day 21-25: nov 3, 2019
 <!-- ##### (delete me or comment me out) -->
