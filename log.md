@@ -13,6 +13,29 @@
 
 #### I may have already started the challenge before logging it here and on twitter. And, I'll never stop learning and building cool stuff :)
 
+
+### Day 35: nov 20, 2019
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**: Continued FCC css tutorials
+
+**Thoughts**: 
+
+
+**Link(s) to work**:
+
+
+### Day 30-34: nov 12, 2019
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**: Worked on Gatsby personal site.
+
+**Thoughts**: 
+
+
+**Link(s) to work**:
+
+
 ### Day 26-29: nov 7, 2019
 <!-- ##### (delete me or comment me out) -->
 
