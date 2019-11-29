@@ -14,6 +14,16 @@
 #### I may have already started the challenge before logging it here and on twitter. And, I'll never stop learning and building cool stuff :)
 
 
+### Day 36: nov 29, 2019
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**: Made use of box shadows in my personal site with a light grey-ish touch fading out with the white background below my header menu so it feels classy 😄
+
+**Thoughts**: 
+
+
+**Link(s) to work**: https://github.com/imtimwong/gatsby_personal_site
+
 ### Day 35: nov 20, 2019
 <!-- ##### (delete me or comment me out) -->
 
