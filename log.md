@@ -13,6 +13,16 @@
 
 #### I may have already started the challenge before logging it here and on twitter. And, I'll never stop learning and building cool stuff :)
 
+### Day 37-38: dec1 , 2019
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**: launched the site
+
+**Thoughts**: 
+
+
+**Link(s) to work**: https://github.com/imtimwong/gatsby_personal_site
+
 
 ### Day 36: nov 29, 2019
 <!-- ##### (delete me or comment me out) -->
